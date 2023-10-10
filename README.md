@@ -1,4 +1,4 @@
-# AJ Styles Portfolio Template
+# Portfolio Template
 
 >Created By Aj_styles
 
